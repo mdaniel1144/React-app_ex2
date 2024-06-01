@@ -1,0 +1,22 @@
+.timer{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    display: inline-block;
+    border-color: black;
+    border-radius: 4px;
+    border-style: solid;
+    padding: 2px;
+    width: 100px;
+    align-items: center;
+    text-align: center;
+}
+
+.timer-clock {
+    display: inline-block;
+    font-size: x-large;
+    margin: auto;
+}
+.timer label{
+    font-size: x-large;
+}
